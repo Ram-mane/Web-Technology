@@ -1,0 +1,13 @@
+body{
+    background-color:lightskyblue;
+    height:50px;
+}
+
+h1{
+    color: royalblue;
+}
+
+.navbar navbar-expand-lg{
+    background-color: limegreen;
+    color: white;
+}
